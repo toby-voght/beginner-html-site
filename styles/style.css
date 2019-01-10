@@ -1,3 +1,13 @@
+body {
+	background: purple;
+}
+
 h1 {
-	color: red
+	color: red;
+	background-color: blue;
+	border: 1px solid black;
+}
+
+img {
+	background-color: red;
 }
